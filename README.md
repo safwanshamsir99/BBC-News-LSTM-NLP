@@ -7,7 +7,7 @@
 
 ![model_loss](static/bbc.png)
 
-# Predictive classification model using Deep Learning Model of Bi-LSTM for Natural Language Processing (NLP) of BBC News Articles.
+# Predictive classification model using Deep Learning Model of Bi-LSTM of Natural Language Processing (NLP) for BBC News Articles.
  Trained over 2,000 BBC News to categorize unseen articles into 5 categories namely Sport, Tech, Business, Entertainment and Politics.
 
 ## Description
