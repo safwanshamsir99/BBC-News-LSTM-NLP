@@ -22,12 +22,15 @@
 
 ## Results
 Training loss & Validation loss:
+
 ![model_loss](static/loss.png)
 
 Training accuracy & Validation accuracy:
+
 ![model_accuracy](static/accuracy.png)
 
 Model score:
+
 ![model_score](static/nlp_score.PNG)
 
 ## Discussion
