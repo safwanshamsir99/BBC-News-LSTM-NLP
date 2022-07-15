@@ -37,7 +37,7 @@
 ## Discussion
 1. The model achieved 92.8% accuracy score during model evaluation process. 
 2. Recall and f1-score also reported a high percentage in range of 0.85 to 0.97 and 0.88 to 0.96 respectively. 
-3. However, the model started to overfit after 2nd epochs based on the graph displayed oon the Tensorboard.
+3. However, the model started to overfit after 2nd epochs based on the graph displayed on the Tensorboard.
 4. To solve this problem, early stopping can be introduced to prevent overfitting and increasing the dropout data also can control the model from overfitting.
 ![tensorboard](static/tensorboard_nlp.png)
 
